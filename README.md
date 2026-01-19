@@ -104,6 +104,14 @@ OCR towns dominate transaction volume, CCR remains a high-price niche, and RCR s
 
 ---
 
+## Explore Yourself
+
+You can download the `.pbix` file to explore the dashboard interactively in **Power BI Desktop**:
+
+[Download HDB Resale Dashboard (.pbix)](HDB_Resale_Dashboard.pbix)
+
+---
+
 ## Data & Methodology Notes
 - Data is sourced from publicly available **HDB resale transaction records** published by the Housing & Development Board via data.gov.sg.  
   *Housing & Development Board (2021).* *Resale flat prices based on registration date from Jan 2017 onwards* (updated to 2026).
