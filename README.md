@@ -38,7 +38,7 @@ HDB resale prices surged sharply in 2021 following COVID-related supply disrupti
 ### 2. Market Structure by Town Region
 
 **Summary**  
-Core Central Region (CCR) flats exhibit premium-market characteristics—higher prices, lower transaction volumes, and greater volatility—while RCR and OCR demonstrate steadier growth and increasing activity, suggesting demand is increasingly absorbed outside the core central areas.
+Core Central Region (CCR) flats exhibit premium-market characteristics—higher prices, lower transaction volumes, and greater volatility—and decreasing transaction activity, while RCR (rest of central region) and OCR (outside central region) demonstrate steadier growth and increasing activity, suggesting demand is might be absorbed outside the core central areas.
 
 **Supporting observations**
 - **CCR** consistently records the **highest median prices** but the **lowest transaction counts**, indicating a niche market.
@@ -64,13 +64,13 @@ OCR towns dominate transaction volume, CCR remains a high-price niche, and RCR s
 ## How to Read the Dashboard
 
 ### Global Filters
-- **Flat Type** and **Town Region** slicers apply across most visuals.
+- **Flat Type** and **Town Region** slicers (filters) apply across most visuals.
 - These allow users to explore how prices and activity differ by housing type (by rooms) and location.
 
 ---
 
 ### Price Snapshot (Cards at top)
-- Displays **current median resale price** and **transaction count** for the selected period.
+- Displays **specific median resale price** and **transaction count** for the selected year and month.
 - Includes **month-on-month** and **year-on-year** indicators for context at a glance.
 
 ---
