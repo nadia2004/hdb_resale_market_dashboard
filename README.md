@@ -108,7 +108,7 @@ OCR towns dominate transaction volume, CCR remains a high-price niche, and RCR s
 
 You can download the `.pbix` file to explore the dashboard interactively in **Power BI Desktop**:
 
-[Download HDB Resale Dashboard (.pbix)](HDB Resale Market Dashboard.pbix)
+[Download HDB Resale Dashboard (.pbix)](HDB_Resale_Market_Dashboard.pbix)
 
 ---
 
