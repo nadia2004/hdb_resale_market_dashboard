@@ -5,7 +5,7 @@ Interactive Power BI dashboard analysing HDB resale price trends, transaction ac
 ![Overview](pictures/dashboard_overview.png)
 
 ## Key Visuals
-### Price & Transaction Trends
+### Resale Price & Transaction Snapshot and Long-Term Trend
 ![YoY Trends](pictures/yoy_trends.png)
 
 ### Key Price Drivers
