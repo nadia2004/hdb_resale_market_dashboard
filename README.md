@@ -9,8 +9,8 @@ Interactive Power BI dashboard analysing HDB resale price trends, transaction ac
 ![YoY Trends](pictures/yoy_trends.png)
 
 ### Key Price Drivers
-![Decomposition Tree](pictures/decomposition_tree.png)
+![Decomposition Tree](pictures/key_factor_driver.png)
 
 ### Town-Level Watchlist
-![Town Watchlist](pictures/town_watchlist.png)
+![Town Watchlist](pictures/town_level_watchlist.png)
 
